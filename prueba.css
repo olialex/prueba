@@ -1,0 +1,14 @@
+div{
+  text-align: center;
+  width: 400px;
+  height: 400px;
+  background-color: #87A330;
+}
+
+p{
+  text-align: center;
+  width: 300px;
+  height: 300px;
+  color: white;
+  background-color: #2A3C24;
+}
